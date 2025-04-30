@@ -31,8 +31,8 @@ Left too soon, on 23/8/2024:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/CCTV.git
-   cd CCTV
+   git clone https://github.com/grMLEqomlkkU5Eeinz4brIrOVCUCkJuN/MC-Surveillance
+   cd MC-Surveillance
    ```
 
 2. **Install Dependencies**
