@@ -4,7 +4,11 @@ A Discord and Mineflayer bot that monitors nearby users to an area to ensure sec
 
 ## Story
 
-This project originated from a personal experience on a shared Minecraft (PaperMC hosted by a friend) SMP server, where unauthorized users began griefing my base using TNT, resulting in the loss of in-game assets—including a long-time companion, a pet dog named Grobby. In response, I developed this bot to enhance base security by monitoring player activity and providing real-time updates via Discord. The goal was to prevent future incidents by introducing a layer of automated surveillance for player-managed facilities.
+This project originated from a personal experience on a shared Minecraft (PaperMC hosted by a friend) SMP server, where unauthorized users began griefing my base using TNT, resulting in the loss of in-game assets, including a long-time companion, a pet dog named Grobby. In response, I developed this bot to enhance base security by monitoring player activity and providing real-time updates via Discord. The goal was to prevent future incidents by introducing a layer of automated surveillance for player-managed facilities.
+
+## RIP Grobby
+Left too soon, on 23/8/2024:
+![image](https://github.com/user-attachments/assets/fe380cb6-9a94-4a92-8434-7a116a2a4eab)
 
 
 ## Prerequisites
