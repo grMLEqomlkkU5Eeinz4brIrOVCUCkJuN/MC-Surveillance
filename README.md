@@ -130,5 +130,3 @@ For issues or questions, please open an issue in the GitHub repository.
 ## TODO
 
 1. Refactor `allowedPlayersModel` and the whole of `Utils`.
-2. Fix Logging Issues.
-3. Figure out approximate coverage server to server basis.
