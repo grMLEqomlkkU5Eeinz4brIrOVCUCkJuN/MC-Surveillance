@@ -1,7 +1,6 @@
 # Minecraft Surveillance Bot
 
-A Discord and Mineflayer bot that monitors nearby users to an area to ensure security of bases and facilities. ~This bot can also be used for spawn terrorizing. By hiding this bot near spawn you will get a notification whenever a new player joins. Useful for platforms like 2B2T.~
-
+A Discord and Mineflayer bot that monitors nearby users to an area to ensure security of bases and facilities.
 ## Story
 
 This project originated from a personal experience on a shared Minecraft (PaperMC hosted by a friend) SMP server, where unauthorized users began griefing my base using TNT, resulting in the loss of in-game assets, including a long-time companion, a pet dog named Grobby. In response, I developed this bot to enhance base security by monitoring player activity and providing real-time updates via Discord. The goal was to prevent future incidents by introducing a layer of automated surveillance for player-managed facilities.
